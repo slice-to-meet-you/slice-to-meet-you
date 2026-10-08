@@ -12,7 +12,7 @@ st.set_page_config(
 # CAMBIA AQUÍ TU NÚMERO DE WHATSAPP
 # Incluye el código de país sin espacios ni el signo + (Ejemplo Costa Rica: 50688888888)
 # ==============================================================================
-NUMERO_WHATSAPP = "50600000000"  
+NUMERO_WHATSAPP = "50687367157"  
 
 # Encabezado principal
 st.title("🍕 Slice to Meet You")
