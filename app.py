@@ -104,7 +104,7 @@ else:
                 </button>
             </a>
             ''',
-            unsafe_allowed_html=True
+            unsafe_allow_html=True
         )
     else:
         st.warning("Escribe tu nombre y dirección para activar el botón de envío por WhatsApp.")
